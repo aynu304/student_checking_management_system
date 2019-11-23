@@ -1,0 +1,2 @@
+# student_checking_management_system
+这是一个企业实战项目作业
